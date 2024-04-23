@@ -1,0 +1,7 @@
+C:\Suli\doga\autoszalon\autoszalon\bin\Debug\autoszalon.exe.config
+C:\Suli\doga\autoszalon\autoszalon\bin\Debug\autoszalon.exe
+C:\Suli\doga\autoszalon\autoszalon\bin\Debug\autoszalon.pdb
+C:\Suli\doga\autoszalon\autoszalon\obj\Debug\autoszalon.csproj.AssemblyReference.cache
+C:\Suli\doga\autoszalon\autoszalon\obj\Debug\autoszalon.csproj.CoreCompileInputs.cache
+C:\Suli\doga\autoszalon\autoszalon\obj\Debug\autoszalon.exe
+C:\Suli\doga\autoszalon\autoszalon\obj\Debug\autoszalon.pdb
